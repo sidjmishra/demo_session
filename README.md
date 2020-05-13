@@ -1,6 +1,9 @@
-# demo_session
+# provider_demo
 
 A new Flutter project.
+Using Provider we can add different entry points to the flutter application.
+Can have different backend environment.
+Show in-app developer menu, with options for testing.
 
 ## Getting Started
 
